@@ -1,4 +1,4 @@
-# Chunk
+# Working with big data due to chunk method
 
 ## English
 ### 1) Objective and Task Condition:
